@@ -1,1 +1,1 @@
-loja clone centauro
+loja clone centauro test 
