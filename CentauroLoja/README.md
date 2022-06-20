@@ -1,1 +1,1 @@
-loja clone centauro test 
+loja clone centauro test 1git 
